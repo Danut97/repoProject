@@ -1,6 +1,4 @@
 
-
-
 class CarType {
   constructor() {
     this.imagesSrc = ["./sedan.png", "./car.png", "./sport-car.png"];
