@@ -1,5 +1,5 @@
 
-console.log("Week 10 - Car Example");
+
 
 class CarType {
   constructor() {
